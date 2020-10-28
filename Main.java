@@ -21,7 +21,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner sc = new Scanner(new InputStreamReader(System.in));
+        Scanner sc = new Scanner(new InputStreamReader(System.in));//aksudkasguiagifasoifasf
         while (true) {
             System.out.println("1. Create doctor");
             System.out.println("2. Edit doctor");
